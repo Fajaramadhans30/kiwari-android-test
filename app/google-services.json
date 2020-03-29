@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199668905207",
+    "firebase_url": "https://kiwari-android-bc972.firebaseio.com",
+    "project_id": "kiwari-android-bc972",
+    "storage_bucket": "kiwari-android-bc972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199668905207:android:153c1d6af4377463b28ff2",
+        "android_client_info": {
+          "package_name": "com.test.kiwariandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199668905207-m22bgugi8te2doioudfd5t4havt0qcpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz900g9rQKafwEBumTPBIM_0iw-Im1zkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199668905207-m22bgugi8te2doioudfd5t4havt0qcpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
