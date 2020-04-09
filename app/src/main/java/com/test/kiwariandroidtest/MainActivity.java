@@ -28,6 +28,7 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.test.kiwariandroidtest.fragment.ChatsFragment;
+import com.test.kiwariandroidtest.fragment.ProfileFragment;
 import com.test.kiwariandroidtest.fragment.UsersFragment;
 import com.test.kiwariandroidtest.model.User;
 
@@ -82,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
 
         viewPagerAdapter.addFragment(new ChatsFragment(), "Chats");
         viewPagerAdapter.addFragment(new UsersFragment(), "Users");
+        viewPagerAdapter.addFragment(new ProfileFragment(), "Profile");
 
         viewPager.setAdapter(viewPagerAdapter);
         tabLayout.setupWithViewPager(viewPager);

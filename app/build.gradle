@@ -35,6 +35,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-core:17.2.3'
     implementation 'com.google.firebase:firebase-database:19.2.1'
     implementation 'com.firebase:firebase-client-android:2.3.1'
+    implementation 'com.google.firebase:firebase-storage:19.1.1'
+
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
 
     //noinspection GradleCompatible
